@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.test;
+package com.pizza.service.order;
 
 /**
  * @author LALITA

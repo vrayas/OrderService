@@ -1,4 +1,4 @@
-package com.test;
+package com.pizza.service.order;
 
 public class Order {
 

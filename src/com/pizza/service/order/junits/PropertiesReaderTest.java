@@ -1,4 +1,4 @@
-package com.test.junits;
+package com.pizza.service.order.junits;
 
 
 import java.util.Properties;
@@ -6,7 +6,7 @@ import java.util.Properties;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.test.PropertiesReaderHelper;
+import com.pizza.service.order.PropertiesReaderHelper;
 
 import org.junit.Assert;
 import junit.framework.TestCase;

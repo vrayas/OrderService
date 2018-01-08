@@ -1,4 +1,4 @@
-package com.test.junits;
+package com.pizza.service.order.junits;
 
 import static org.junit.Assert.*;
 
@@ -8,8 +8,8 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.test.OrderHelper;
-import com.test.OrderItem;
+import com.pizza.service.order.OrderHelper;
+import com.pizza.service.order.OrderItem;
 
 public class TestOrderHelper {
 
